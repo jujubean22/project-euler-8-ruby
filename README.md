@@ -1,1 +1,1 @@
-# project-euler-8-ruby
+# Project Euler #8 Ruby Solution
